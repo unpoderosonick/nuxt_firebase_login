@@ -1,0 +1,17 @@
+# Dependencias de Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Archivos de entorno
+.env
+
+# Directorios de construcción
+dist/
+.build/
+.nuxt/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
